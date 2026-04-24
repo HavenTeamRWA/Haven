@@ -14,7 +14,7 @@ Powered by AI agent frameworks like **OpenClaw**, Haven enables 24/7 autonomous 
 * 🐦 Twitter/X: [@HavenAI\_](https://x.com/HavenAI_)
 * 💬 Telegram: [t.me/AI\_Haven](https://t.me/AI_Haven)
 * 📝 Medium: [medium.com/@HavenAI](https://medium.com/@HavenAI)
-* 📖 Official Docs: [docs.haven.financial](https://docs.haven.financial/)
+* 📖 Official Docs: [https://haven-11.gitbook.io/haven-ai-docs/](https://haven-11.gitbook.io/haven-ai-docs/)
 
 ***
 
