@@ -1,8 +1,8 @@
 # Overview
 
-## What is Haven?
+## What is Haven AI?
 
-Haven is the first AI-powered protocol that automates capital allocation across stablecoins, RWAs (Real World Assets), and quantitative strategies. It creates a unified gateway between DeFi and TradFi fixed-income markets.
+Haven AI is the first AI-powered protocol that automates capital allocation across stablecoins, RWAs (Real World Assets), and quantitative strategies. It creates a unified gateway between DeFi and TradFi fixed-income markets.
 
 By leveraging the **OpenClaw** AI agent framework, Haven delivers 24/7 autonomous yield optimization with built-in risk intelligence — removing the need for manual monitoring or complex multi-protocol management.
 
@@ -10,7 +10,7 @@ By leveraging the **OpenClaw** AI agent framework, Haven delivers 24/7 autonomou
 Haven is purpose-built for institutions, DAOs, and yield-seeking users who want access to professional-grade fixed income strategies without operational overhead.
 {% endhint %}
 
----
+***
 
 ## Core Products
 
@@ -38,20 +38,20 @@ Access T-Bills, liquidity pools, and delta-neutral strategies from a single inte
 
 [→ Learn more about the Unified Yield Gateway](../core-products/gateway.md)
 
----
+***
 
 ## Key Capabilities
 
-| Feature | Description | Status |
-|---|---|---|
-| Autonomous yield optimization | 24/7 AI-driven capital reallocation across protocols | ✅ Live |
-| Cross-chain execution | Strategy deployment across multiple EVM chains | ✅ Live |
-| RWA integration | T-Bill exposure and tokenized real-world assets | ✅ Live |
-| Natural language interface | Describe your strategy in plain text | ✅ Live |
-| Risk scoring | Per-position risk intelligence via HavenScore | ✅ Live |
-| OpenClaw SDK | Build custom AI agent skills on top of Haven | 🔵 Beta |
+| Feature                       | Description                                          | Status  |
+| ----------------------------- | ---------------------------------------------------- | ------- |
+| Autonomous yield optimization | 24/7 AI-driven capital reallocation across protocols | ✅ Live  |
+| Cross-chain execution         | Strategy deployment across multiple EVM chains       | ✅ Live  |
+| RWA integration               | T-Bill exposure and tokenized real-world assets      | ✅ Live  |
+| Natural language interface    | Describe your strategy in plain text                 | ✅ Live  |
+| Risk scoring                  | Per-position risk intelligence via HavenScore        | ✅ Live  |
+| OpenClaw SDK                  | Build custom AI agent skills on top of Haven         | 🔵 Beta |
 
----
+***
 
 ## Links
 
